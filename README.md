@@ -51,7 +51,7 @@ Y para finalizar en la figura 5, se muestra la evidencia del archivo que se gene
 
 ![Archivo](https://github.com/OmarAbundis/Introduccion_a_Python_Archivos/blob/main/Imagenes/Archivo_UltraSonico.PNG)
 
-** Creditos
+## Creditos
 
 Dra. Paloma Vilchis, desarrolladora del contenido de la presente práctica.
 Prof. Hugo Vargas.
