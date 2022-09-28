@@ -56,6 +56,7 @@ Y para finalizar en la figura 5, se muestra la evidencia del archivo que se gene
 ## Créditos
 
 Dra. Paloma Vilchis, desarrolladora del contenido de la presente práctica.
+
 Prof. Hugo Vargas.
   
   
